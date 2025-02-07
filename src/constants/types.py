@@ -1,0 +1,2 @@
+KANJI = "kanji"
+WORD = "word"

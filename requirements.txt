@@ -1,0 +1,3 @@
+yomitandic
+jupyter
+requests_cache
