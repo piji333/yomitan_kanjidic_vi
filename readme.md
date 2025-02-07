@@ -11,4 +11,5 @@ Output: [Kanji] KANJIDIC (English) (Recommended)_vi.zip
 ## Install
 
 source myenv/bin/activate
+
 pip install -r requirements.txt
